@@ -1,0 +1,7 @@
+{
+  "name": "advertiser",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
